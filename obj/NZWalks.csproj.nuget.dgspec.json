@@ -1,30 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/paulkhoza/Documents/web-dev/NZWalks/NZWalks.csproj": {}
+    "/home/omen/Documents/NZWalks/NZWalks.csproj": {}
   },
   "projects": {
-    "/Users/paulkhoza/Documents/web-dev/NZWalks/NZWalks.csproj": {
+    "/home/omen/Documents/NZWalks/NZWalks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/paulkhoza/Documents/web-dev/NZWalks/NZWalks.csproj",
+        "projectUniqueName": "/home/omen/Documents/NZWalks/NZWalks.csproj",
         "projectName": "NZWalks",
-        "projectPath": "/Users/paulkhoza/Documents/web-dev/NZWalks/NZWalks.csproj",
-        "packagesPath": "/Users/paulkhoza/.nuget/packages/",
-        "outputPath": "/Users/paulkhoza/Documents/web-dev/NZWalks/obj/",
+        "projectPath": "/home/omen/Documents/NZWalks/NZWalks.csproj",
+        "packagesPath": "/home/omen/.nuget/packages/",
+        "outputPath": "/home/omen/Documents/NZWalks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/paulkhoza/.nuget/NuGet/NuGet.Config"
+          "/home/omen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
+          "/home/omen/Documents/.net-microservice-course/packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,36 +33,31 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.20, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.20, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[7.0.20, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.20, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[7.0.20, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
