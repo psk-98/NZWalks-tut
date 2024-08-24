@@ -127,3 +127,4 @@
 /home/omen/Documents/NZWalks/obj/Debug/net8.0/NZWalks.pdb
 /home/omen/Documents/NZWalks/obj/Debug/net8.0/NZWalks.genruntimeconfig.cache
 /home/omen/Documents/NZWalks/obj/Debug/net8.0/ref/NZWalks.dll
+/home/omen/Documents/NZWalks/bin/Debug/net8.0/AutoMapper.dll

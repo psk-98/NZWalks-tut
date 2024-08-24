@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C2VOlYj7+d1R5sA4dwXVfW6/4tPd57R4HG+jfi8NQR72d6zXrV3NBI28EvLa9L1/8PcU3Iz7+hh+eLs+wLM7aw==",
+  "dgSpecHash": "lUO7i65hou6AGHXqIy6KZJw3Gqc6HAmNF1D+RAnoiX+NL2nL2wNpTdIwV/tz+9SUMHyL4GQKrbBWxQrWauQKNg==",
   "success": true,
   "projectFilePath": "/home/omen/Documents/NZWalks/NZWalks.csproj",
   "expectedPackageFiles": [
+    "/home/omen/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/omen/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/omen/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/home/omen/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
