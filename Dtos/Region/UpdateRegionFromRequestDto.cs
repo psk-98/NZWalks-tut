@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NZWalks.Dtos.Region;
 
-public class CreateRegionFromRequestDto
+public class UpdateRegionFromRequestDto
 {
     [Required]
     [MinLength(3, ErrorMessage = "Code has to be 3 characters")]
@@ -16,5 +16,4 @@ public class CreateRegionFromRequestDto
     [MaxLength(100, ErrorMessage = "Code has to be 100 characters")]
     public string Name { get; set; }
     public string? RegionImageUrl { get; set; }
-
 }
